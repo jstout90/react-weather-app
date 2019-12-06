@@ -1,0 +1,10 @@
+.dimension {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.map-fitting {
+  height: 500px;
+  width: 100%;
+}
